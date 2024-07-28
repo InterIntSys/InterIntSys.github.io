@@ -6,10 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: Plusgroup
   theme_night:
   font: native
-  font_size: L
+  font_size: M
+
 
 # SEO
 
@@ -17,14 +18,17 @@ marketing:
   seo:
     site_type: Organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'Interactive Intelligent Systems Group'
+    description: 'Website of the research group Interactive Intelligent Systems Group at Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
     google: ''
     baidu: ''
@@ -34,30 +38,37 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show_translations: false
+    show_day_night: false
     show_search: true
-    highlight_active_link: false
+    highlight_active_link: true
+    #fixed_to_top: true
+    show_theme_chooser: false
+    #logo:
+    #  text: "Your Name"
 
 # Site footer
 
 footer:
+  block: minimal
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Interactive Intelligent Systems Group. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
 
 locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+  date_format: '2 January 2006'
+  time_format: '15:04'
+  address_format: de_int
 
 # Site features
 
@@ -76,7 +87,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
@@ -115,4 +126,4 @@ extensions:
 
 publications:
   date_format: January 2006
-  citation_style: apa
+  citation_style: chb

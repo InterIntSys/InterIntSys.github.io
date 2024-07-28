@@ -4,21 +4,27 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: <i class="fa-solid fa-eye"></i> Tour
+    url: /#tour
     weight: 10
-  - name: News
-    url: post
+  - name: <i class="fa-regular fa-newspaper"></i> News
+    url: news
     weight: 20
-  - name: People
-    url: people
+  - name: <i class="fa-solid fa-people-group"></i> Team
+    url: team
     weight: 30
-  - name: Events
-    url: event
+  - name: <i class="fa-solid fa-calendar"></i> Events
+    url: events
     weight: 40
-  - name: Publications
-    url: publication
+  - name: <i class="fa-regular fa-comment"></i> Talks
+    url: talks
     weight: 50
-  - name: Contact
-    url: contact
+  - name: <i class="fa-solid fa-file-lines"></i> Publications
+    url: publications
     weight: 60
+  - name: <i class="fa-solid fa-person-chalkboard"></i> Teaching
+    url: teaching
+    weight: 70
+  - name: <i class="fa-solid fa-graduation-cap"></i> Thesis projects
+    url: thesis-projects
+    weight: 90

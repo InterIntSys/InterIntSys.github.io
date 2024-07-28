@@ -1,0 +1,15 @@
+{{/* Get GSS ranking for conference shortname. */}}
+{{ $rankingtitle := "rankingtitle" }}
+
+{{ $url := "assets/csv/jif.csv" }}	
+{{ $content := readFile $url }}
+{{ $options := dict "delimiter" "," }}
+{{ $rows := $content | transform.Unmarshal $options }}
+{{ range $i, $r := $rows  }}
+    	{{ if eq $i 0 }}
+		{{ $rankingtitle = ( index  $r 6 ) }}
+	{{end}}
+       {{ if and (eq $.publication_short (index $r 0)) (index $r 6)}}<span class="btn btn-outline-primary btn-page-header btn-sm jif">{{ $rankingtitle }}: {{ index . 6}} </span>{{ end }}
+    {{end}}
+
+

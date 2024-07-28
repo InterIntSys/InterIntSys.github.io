@@ -1,0 +1,15 @@
+{{/* Get SJR badge for journal name. */}}
+{{ $rankingtitle := "rankingtitle" }}
+
+{{ $url := "assets/csv/jif.csv" }}	
+{{ $content := readFile $url }}
+{{ $options := dict "delimiter" "," }}
+{{ $rows := $content | transform.Unmarshal $options }}
+{{ range $i, $r := $rows  }}
+	{{ if eq $i 0 }}
+		{{ $rankingtitle = ( index  $r 7 ) }}
+	{{end}}
+        {{ if and (strings.Contains  $.publication (index $r 0)) (index $r 7) }} <span class="scimago"><a href="https://www.scimagojr.com/journalsearch.php?q={{ index . 7 }}&amp;tip=sid&amp;exact=no" title="SCImago Journal Rank {{ index . 0 }}"><img border="0" src="https://www.scimagojr.com/journal_img.php?id={{ index . 7 }}" alt="SCImago Journal Rank {{ index . 0 }}"  /></a></span>{{ end }}
+    {{end}}
+
+
