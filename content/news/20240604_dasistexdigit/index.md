@@ -1,7 +1,7 @@
 ---
 title: "DAS ist EXDIGIT"
 subtitle: ""
-summary: "On June 4, 2024, we organized ahe event 'DAS ist EXDIGIT', introducing the EXDIGIT team."
+summary: "On June 4, 2024, we organized the event 'DAS ist EXDIGIT', introducing the EXDIGIT team."
 authors: [Christine Bauer]
 #projects: []
 categories: [news]

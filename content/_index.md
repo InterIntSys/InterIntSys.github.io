@@ -124,7 +124,7 @@ sections:
         filename: welcome.jpg
       cta:
         label: Meet the team →
-        url: ./people/
+        url: ./team/
         icon_pack: fas
         icon: people-group
       text: >-
