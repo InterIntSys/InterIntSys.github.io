@@ -16,7 +16,7 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: ResearchOrganization
     local_business_type: ''
     org_name: 'Interactive Intelligent Systems Group'
     description: 'Website of the research group Interactive Intelligent Systems Group at Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria.'
@@ -81,7 +81,7 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
@@ -123,7 +123,15 @@ extensions:
     enable: true
 
 # Citation style
-
 publications:
   date_format: January 2006
   citation_style: chb
+
+# Show related content
+show_related:
+  book: false
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
