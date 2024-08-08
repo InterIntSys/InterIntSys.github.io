@@ -54,6 +54,10 @@ social:
   icon_pack: fab
   icon_title: GitHub
   link: https://github.com/KonstantinLackner
+- icon: globe
+  icon_pack: fas
+  icon_title: Website
+  link: https://konstantinlackner.at
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ''
@@ -64,4 +68,14 @@ user_groups:
   - Researchers
 ---
 
-Konstantin Lackner is a researcher in AI at the Paris Lodron University Salzburg. His research interests include AI systems, the impact of AI on society, and the prototyping and design of applications and games.
+Konstantin Lackner is a researcher in artificial intelligence (that genuinely hates this term) at the Paris Lodron
+University of Salzburg. His research interests encompass the societal impact of AI as well as popular algorithmic
+systems, particularly in social media, and the potential detection of AI-generated content. In his doctoral studies,
+he’s set out to deconstruct the numerous misconceptions surrounding artificial intelligence (and especially "explainable
+AI"), chart a course for its future use and perception, and educate the public on the underlying principles of these
+systems.
+
+During his Master’s studies, he contributed to two research projects investigating the impact of systems like ChatGPT on
+higher education, which he subsequently summarised in his thesis.
+
+As a side project, he enjoys designing and playing games.
