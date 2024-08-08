@@ -124,6 +124,10 @@ social:
 #  icon_pack: fas
 #  icon_title: Blue Sky
 #  link: https://bsky.app/profile/christinebauer.bsky.social
+- icon: globe
+  icon_pack: fas
+  icon_title: Website
+  link: https://christinebauer.eu
 
         
 # Link to a PDF of your resume/CV.

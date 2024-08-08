@@ -4,9 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: <i class="fa-solid fa-eye"></i> Tour
-    url: /#tour
-    weight: 10
+#  - name: <i class="fa-solid fa-eye"></i> Tour
+#    url: /#tour
+#    weight: 10
   - name: <i class="fa-regular fa-newspaper"></i> News
     url: news
     weight: 20

@@ -11,7 +11,7 @@ sections:
       text: |-
         ## WT 2024/25
         - AI Support for Supplementary Tasks in the Music and Art Sectors, DE, Konstantin Lackner and Christine Bauer   
-        - Advanced Contextual Interfaces, EN, Glenda Hannibal   
+        - Advanced Contextual Interfaces, EN, Mascha Beuthel and Glenda Hannibal   
         
         ## ST 2024
         - Recommender Systems, EN, Christine Bauer   
