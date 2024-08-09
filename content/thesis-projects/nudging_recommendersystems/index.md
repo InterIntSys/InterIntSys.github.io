@@ -1,7 +1,7 @@
 ---
 title: "Nudging strategies that can be integrated into recommender systems"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - nudging

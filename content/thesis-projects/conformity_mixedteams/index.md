@@ -1,7 +1,7 @@
 ---
 title: "Conformity behavior in group decisions with mixed groups of human and computational agents"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - experimental study

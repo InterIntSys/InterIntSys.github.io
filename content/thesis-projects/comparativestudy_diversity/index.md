@@ -1,7 +1,7 @@
 ---
 title: "Comparative analysis of similarity and diversity metrics for recommender systems"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - comparative study

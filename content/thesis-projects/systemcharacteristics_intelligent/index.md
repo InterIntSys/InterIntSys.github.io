@@ -1,7 +1,7 @@
 ---
 title: "System characteristics that make a consumer perceive it 'intelligent'"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - user study

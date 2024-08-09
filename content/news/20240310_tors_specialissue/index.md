@@ -30,7 +30,7 @@ projects: []
 
 Habemus Special Issue :-)
 
-The Special Issue (co-edited by [Christine Bauer](/author/christine-bauer/), [Alan Said](http://alansaid.com) ,and [Eva Zangerle](https://evazangerle.at)) on [Perspectives on Recommender Systems Evaluation](https://dl.acm.org/toc/tors/2024/2/1) is available in the ACM Digital Library.
+The Special Issue (co-edited by [Christine Bauer](/author/christine-bauer/), [Alan Said](http://alansaid.com), and [Eva Zangerle](https://evazangerle.at)) on [Perspectives on Recommender Systems Evaluation](https://dl.acm.org/toc/tors/2024/2/1) is available in the ACM Digital Library.
 The special issue consists of ten great papers providing different perspectives on recommender systems evaluation.
 
 We thank all authors who submitted their work to this special issue and all reviewers who devoted a substantial amount of time and effort to providing constructive and insightful feedback to the authors.

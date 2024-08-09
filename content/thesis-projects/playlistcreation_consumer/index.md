@@ -1,7 +1,7 @@
 ---
 title: "User behavior types of music playlist creation: How do users create music playlists on music streaming services?"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - user study

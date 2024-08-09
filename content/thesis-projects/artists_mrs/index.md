@@ -1,7 +1,7 @@
 ---
 title: "The artists' perspective on music recommender systems"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - artists

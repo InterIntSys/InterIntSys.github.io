@@ -1,7 +1,7 @@
 ---
 title: "What do professional musicians or music students consider when creating/organizing music playlists?"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - user study

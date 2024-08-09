@@ -1,7 +1,7 @@
 ---
 title: "Validation of similarity and diversity metrics in a user study"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - user study

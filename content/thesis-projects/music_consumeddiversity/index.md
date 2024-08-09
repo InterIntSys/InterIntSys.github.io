@@ -1,7 +1,7 @@
 ---
 title: "The influence of music recommender systems on the diversity of music consumed"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - data analysis

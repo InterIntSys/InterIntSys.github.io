@@ -37,7 +37,7 @@ authors: ["Christine Bauer"]
 tags: [keynote, talk, Women in RecSys, recommender systems, RecSys, career, big picture]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

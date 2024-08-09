@@ -1,0 +1,30 @@
+{{/* Display supervisor list. */}}
+
+{{/* check if supervisor(s) in singular or plural. */}}
+  {{ $supervisorLen := len .Page.Params.supervisors }}
+  {{ if eq $supervisorLen 1 }}
+<span>Supervisor: </span>
+  {{ else }}
+<span>Supervisors: </span>
+{{- end -}}
+
+{{- $taxonomy := "supervisors" }}
+{{ if .Param $taxonomy }}
+  {{ range $index, $value := (.GetTerms $taxonomy) }}
+      {{/* Rewrite supervisor url to author url. */}}
+      {{ $authorrellink := (strings.Replace .Page "supervisors" "authors"  )}}
+      {{ $authorrellink := ((trim $authorrellink "Page()") | urlize) }}
+    {{- /* Highlight the author's name? */ -}}
+    {{- $highlight_name := $authorrellink | default false -}}
+
+    {{- if gt $index 0 }}, {{ end -}}
+    <span {{ if $highlight_name }}class="author-highlighted"{{end}}>
+      {{/* Effectively check the page's `_build` option as `_build` is not exposed in Hugo's Page object. */}}
+      {{- if .RelPermalink -}}
+        <a href="{{ $authorrellink }}">{{.LinkTitle}}</a>
+      {{- else -}}
+        {{ .LinkTitle }}
+      {{- end -}}
+    </span>
+  {{- end -}}
+{{- end -}}

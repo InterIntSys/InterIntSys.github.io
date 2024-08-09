@@ -62,16 +62,19 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ''
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
 ---
 
-Konstantin Lackner is a researcher in artificial intelligence (that genuinely hates this term) at the Paris Lodron
-University of Salzburg. His research interests encompass the societal impact of AI as well as popular algorithmic
+Konstantin Lackner is a researcher in artificial intelligence (direct quote: "*I hate that term*") at the Paris Lodron
+University Salzburg. His research interests encompass the societal impact of AI as well as popular algorithmic
 systems, particularly in social media, and the potential detection of AI-generated content. In his doctoral studies,
-he’s set out to deconstruct the numerous misconceptions surrounding artificial intelligence (and especially "explainable
+he is set out to deconstruct the numerous misconceptions surrounding artificial intelligence (and especially "explainable
 AI"), chart a course for its future use and perception, and educate the public on the underlying principles of these
 systems.
 

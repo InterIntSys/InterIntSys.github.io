@@ -1,7 +1,7 @@
 ---
 title: "The perception of diversity in a set or sequence of recommendations (e.g., in a music playlist)"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - user study

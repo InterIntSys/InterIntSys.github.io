@@ -1,7 +1,7 @@
 ---
 title: "Context in Music Recommender Systems"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - systematic literature review

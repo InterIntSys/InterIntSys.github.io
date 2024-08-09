@@ -1,7 +1,7 @@
 ---
 title: "A Systematic Literature Review on (Multi-method) Recommender Systems Evaluation"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - systematic literature review

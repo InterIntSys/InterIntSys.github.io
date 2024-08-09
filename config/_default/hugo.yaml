@@ -27,7 +27,7 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  authors: '/author/:slug/'
+  authors: '/authors/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
@@ -45,17 +45,22 @@ taxonomies:
   category: categories
   publication_type: publication_types
   author: authors
+  supervisor: supervisors
 markup:
   _merge: deep
 related:
-  threshold: 80
+  threshold: 90
   includeNewer: true
   toLower: true
   indices:
     - name: tags
       weight: 100
     - name: categories
-      weight: 70
+      weight: 30
+    - name: authors
+      weight: 1
+    - name: projects
+      weight: 50
 security:
   _merge: deep
 sitemap:

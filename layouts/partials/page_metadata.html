@@ -12,6 +12,16 @@
   </div>
   {{ end }}
   {{ end }}
+  
+    {{/* If `supervisors` is set and is not empty. */}}
+  {{ if $page.Params.supervisors }}
+  {{ $authorLen := len $page.Params.supervisors }}
+  {{ if gt $authorLen 0 }}
+  <div>
+    {{ partial "page_metadata_supervisors" $page }}
+  </div>
+  {{ end }}
+  {{ end }}
 
   {{ if not (in (slice "event" "talk" "page" "post" "markdown") $page.Type) | and (ne $page.Params.show_date false) }}
   <span class="article-date">

@@ -1,7 +1,7 @@
 ---
 title: "Diurnal fluctuations in musical preference"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - music preferences

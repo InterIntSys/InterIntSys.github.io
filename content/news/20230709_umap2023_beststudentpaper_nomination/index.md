@@ -18,9 +18,9 @@ profile: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
 #  caption: ""
-#  focal_point: "Smart"
-#  preview_only: false
-  placement: 500
+  focal_point: "Smart"
+  preview_only: false
+  placement: 1
 
 
 # Projects (optional).
@@ -33,7 +33,7 @@ image:
 
 <br><br>
 
-What a great acknowledgment. The [UMAP 2023](https://www.um.org/umap2023/) paper entitled "Amplifying artists' voices: item provider perspectives on influence and fairness of music streaming platforms" by Karlijn Dinnissen and Christine Bauer was nominated for a Best Student Paper Award.
+What a great acknowledgment. The [UMAP 2023](https://www.um.org/umap2023/) paper entitled "Amplifying artists' voices: item provider perspectives on influence and fairness of music streaming platforms" by Karlijn Dinnissen and [Christine Bauer](/author/christine-bauer) was nominated for a Best Student Paper Award.
 
 Congratulations to Giuseppe Spillo and team (Cataldo Musto, Marco Polignano, Pasquale Lops, Marco de Gemmis, and Giovanni Semeraro) who won the Best Student Paper Award---well deserved!
 

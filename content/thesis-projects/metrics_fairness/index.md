@@ -1,7 +1,7 @@
 ---
 title: "Metrics to measure the fairness of music recommender approaches from the perspective of artists"
 summary: ""
-authors:
+supervisors:
 - Christine Bauer
 tags:
 - fairness

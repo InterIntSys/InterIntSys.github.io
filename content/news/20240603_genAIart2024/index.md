@@ -20,7 +20,7 @@ image:
   placement: 1
 ---
 
-The symposium on 'Harmony & Dissonance: Generative AI in Music and the Arts' is just round the corner. Christine Bauer organizes this event as part of the W&K collaboration between Mozarteum University and Paris Lodron University Salzburg. The symposium will take place in Villa Vicina---Salzburg, Austria---on June 20, 2024.
+The symposium on 'Harmony & Dissonance: Generative AI in Music and the Arts' is just round the corner. [Christine Bauer](/author/christine-bauer/) organizes this event as part of the W&K collaboration between Mozarteum University and Paris Lodron University Salzburg. The symposium will take place in Villa Vicina---Salzburg, Austria---on June 20, 2024.
 
 We have brilliant speakers at the symposium that look at the topic from different angles:
 composer and sound artist Marco Döttlinger, copyright expert Noah Martin, media artist Stephanie Meisl, music technology and AI expert Jordi Pons, and music business researcher Peter Tschmuck.
