@@ -50,11 +50,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#FFFFFF'
-        link:
-          icon: eye
-          icon_pack: fas
-          text: Take a tour
-          url: "#tour"
+ #       link:
+ #         icon: eye
+ #         icon_pack: fas
+ #         text: Take a tour
+ #         url: "#tour"
       - title: We are part of EXDIGIT
         content: >-
           We are part of Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en) at the [Paris Lodron University Salzburg](https://plus.ac.at?lang=en), Austria.

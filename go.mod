@@ -1,8 +1,8 @@
 module github.com/InterIntSys/interactive.io
 
-go 1.21
+go 1.20
 
-require github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240713204532-5660081624a8
+require github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify v1.1.2-0.20240813182432-8778c4b5ed89
 
 require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5 v5.9.7 // indirect
