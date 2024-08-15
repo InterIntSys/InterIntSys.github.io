@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: PostDoc
 
 # Organizations/Affiliations
 organizations:
@@ -51,14 +51,14 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:glenda.hannibal@plus.ac.at'
-- icon: github
-  icon_pack: fab
-  icon_title: GitHub
-  link: https://github.com/ghannibal
 - icon: linkedin
   icon_pack: fab
   icon_title: LinkedIn
   link: https://www.linkedin.com/in/glendahannibal/
+- icon: github
+  icon_pack: fab
+  icon_title: GitHub
+  link: https://github.com/ghannibal
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=wWPZhZkAAAAJ
