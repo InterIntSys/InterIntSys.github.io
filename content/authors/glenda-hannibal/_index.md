@@ -30,16 +30,16 @@ interests:
   - Explainable AI
   - Recommender Systems
   - Philosophy of Trust
-  - philosophy of Science
+  - Philosophy of Science
   - Metaphilosophy
   - AI Ethics
 
 education:
   courses:
-    - course: Dr.techn./PhD in Computer Science
+    - course: Dr./PhD in Computer Science
       institution: TU Wien, Austria
       year: 2022
-      description: Dissertation on Trust in Human-Robot Interaction
+      caption: Dissertation on Trust in Human-Robot Interaction
     - course: MA in Philosophy
       institution: Aarhus University, Denmark
       year: 2015
@@ -47,7 +47,7 @@ education:
     - course: BA in Philosophy
       institution: Aarhus University, Denmark
       year: 2012
-      description: Minor in Cognitive Semiotics
+      camption: Minor in Cognitive Semiotics
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -81,4 +81,4 @@ user_groups:
   - Researchers
 ---
 
-Glenda has contributed to research in AI and robotics in the areas of human-robot interaction and explainable AI. Her main research interests include the topics of social robotics, philosophy of science, epistemology, philosophy of trust, and AI ethics. 
+Glenda is a *theory-driven* researcher who strive to bring together insights from *philosophy* and sociology with scientic and technological advancements in computer science. More specifically, she explore ways to fine-tune or modify various theories and methods used to develop AI and robotic systems to investigate how they might influence the *everyday life* of people. As part of the research team, Glenda is extending her previous work on interpersonal trust in human-robot interaction by focusing on the intricate relation between *trust* and *knowledge* in relations to explainable AI and recommender systems.
