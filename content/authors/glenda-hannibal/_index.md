@@ -18,7 +18,7 @@ role: PostDoc
 
 # Organizations/Affiliations
 organizations:
-- name: Paris Lodron University Salzburg (PLUS), Austria
+- name: Paris Lodron University of Salzburg, Austria
   url: https://www.plus.ac.at
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,6 +28,7 @@ interests:
   - Human-Robot Interaction
   - Social Robotics
   - Explainable AI
+  - Recommender Systems
   - Philosophy of Trust
   - philosophy of Science
   - Metaphilosophy
@@ -35,7 +36,7 @@ interests:
 
 education:
   courses:
-    - course: Doctorate/PhD in Computer Science
+    - course: Dor.techn/PhD in Computer Science
       institution: TU Wien, Austria
       year: 2022
       description: Dissertation on Trust in Human-Robot Interaction
