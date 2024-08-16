@@ -24,8 +24,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-  - Artificial Intelligence
+research interests:
   - Explainable AI
   - Human-Robot Interaction
   - Social Robotics
@@ -39,15 +38,15 @@ education:
     - course: Doctorate/PhD in Computer Science
       institution: TU Wien, Austria
       year: 2022
-      keywords: Dissertation on Trust in Human-Robot Interaction
+      description: Dissertation on Trust in Human-Robot Interaction
     - course: MA in Philosophy
       institution: Aarhus University, Denmark
       year: 2015
-      keywords: Specialization in Epistemology, Metaphysics, and Cognition
+      description: Specialization in Epistemology, Metaphysics, and Cognition
     - course: BA in Philosophy
       institution: Aarhus University, Denmark
       year: 2012
-      Keywords: Minor in Cognitive Semiotics
+      description: Minor in Cognitive Semiotics
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
