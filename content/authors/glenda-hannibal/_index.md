@@ -30,13 +30,15 @@ interests:
   - Explainable AI
   - Recommender Systems
   - Philosophy of Trust
+  - Epistemology
   - Philosophy of Science
   - Metaphilosophy
+  - Metaphysics
   - AI Ethics
 
 education:
   courses:
-    - course: Dr./PhD in Computer Science
+    - course: Dr.techn. in Computer Science
       institution: TU Wien, Austria
       year: 2022
       caption: Dissertation on Trust in Human-Robot Interaction
@@ -81,4 +83,4 @@ user_groups:
   - Researchers
 ---
 
-Glenda is a *theory-driven* researcher who strive to bring together insights from *philosophy* and sociology with scientic and technological advancements in computer science. More specifically, she explore ways to fine-tune or modify various theories and methods used to develop AI and robotic systems to investigate how they might influence the *everyday life* of people. As part of the research team, Glenda is extending her previous work on interpersonal trust in human-robot interaction by focusing on the intricate relation between *trust* and *knowledge* in relations to explainable AI and recommender systems.
+Glenda is a **theory-driven** researcher who strive to bring together insights from **philosophy** and **sociology** with scientic and technological advancements in **computer science**. More specifically, she explore ways to fine-tune or modify various theories and **methods** used to develop AI and robotic systems to investigate how they influence the **everyday life** of people. As part of the research team, Glenda is extending her previous work on **interpersonal trust** in human-robot interaction by focusing on the intricate relation between trust and **knowledge** in the areas of **explainable AI** and **recommender systems**.
