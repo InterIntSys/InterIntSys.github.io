@@ -27,21 +27,27 @@ organizations:
 interests:
   - Artificial Intelligence
   - Explainable AI
-  - Trust
-  - Social Robotics
   - Human-Robot Interaction
+  - Social Robotics
+  - Philosophy of Trust
+  - philosophy of Science
+  - Metaphilosophy
+  - AI Ethics
 
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: Doctorate/PhD in Computer Science
       institution: TU Wien, Austria
       year: 2022
-    - course: Master of Arts (MA) in Philosophy
+      keywords: Dissertation on Trust in Human-Robot Interaction
+    - course: MA in Philosophy
       institution: Aarhus University, Denmark
       year: 2015
-    - course: Bachelor of Arts (BA) in Philosophy
+      keywords: Specialization in Epistemology, Metaphysics, and Cognition
+    - course: BA in Philosophy
       institution: Aarhus University, Denmark
       year: 2012
+      Keywords: Minor in Cognitive Semiotics
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -61,7 +67,7 @@ social:
   link: https://github.com/ghannibal
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=wWPZhZkAAAAJ
+  link: https://scholar.google.com/citations?user=wWPZhZkAAAAJ&hl=en&oi=ao
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ''
@@ -75,4 +81,4 @@ user_groups:
   - Researchers
 ---
 
-Glenda Hannibal is a researcher in AI and human-robot interaction at the Paris Lodron University Salzburg. Her research interests include explainable AI and trust.
+Glenda has contributed to research in AI and robotics in the areas of human-robot interaction and explainable AI. Her main research interests include the topics of social robotics, philosophy of science, epistemology, philosophy of trust, and AI ethics. 
