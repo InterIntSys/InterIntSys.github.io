@@ -24,10 +24,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-research interests:
-  - Explainable AI
+interests:
   - Human-Robot Interaction
   - Social Robotics
+  - Explainable AI
   - Philosophy of Trust
   - philosophy of Science
   - Metaphilosophy
