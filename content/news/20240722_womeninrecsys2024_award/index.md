@@ -29,7 +29,7 @@ projects: []
 
 <br>
 
-The TORS paper [Where are the values? A systematic literature review on news recommender systems](/publications/bauer-2024-values) received the Women in RecSys Journal Paper of the Year Award 2024. With this, [Christine Bauer](/author/christine-bauer) received this award two times in a row (2023 and 2024).
+The TORS paper [Where are the values? A systematic literature review on news recommender systems](/publications/bauer-2024-values) received the Women in RecSys Journal Paper of the Year Award 2024. With this, {{% mention "christine-bauer" %}} received this award two times in a row (2023 and 2024).
 
 It will be a pleasure presenting this work in the main program of RecSys 2024 in Bari.
 

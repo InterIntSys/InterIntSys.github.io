@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-The survey paper on the evaluation of recommender systems by [Christine Bauer](/author/christine-bauer/), [Eva Zangerle](https://evazangerle.at), and [Alan Said](https://alansaid.com) was accepted for publication in [ACM Transaction on Recommender Systems (TORS)](https://tors.acm.org). The "Just Accepted" version is already online.
+The survey paper on the evaluation of recommender systems by {{% mention "christine-bauer" %}}, [Eva Zangerle](https://evazangerle.at), and [Alan Said](https://alansaid.com) was accepted for publication in [ACM Transaction on Recommender Systems (TORS)](https://tors.acm.org). The "Just Accepted" version is already online.
 
 It is great that our collaboration on the [PERSPECTIVES workshop series](https://perspectives-ws.github.io) also led to this publication.
 

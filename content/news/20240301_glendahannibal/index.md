@@ -21,7 +21,7 @@ image:
   placement: 500
 ---
 
-As of today, [Glenda Hannibal](/author/glenda-hannibal) is joining our team as a postdoctoral researcher. 
+As of today, {{% mention "glenda-hannibal" %}} is joining our team as a postdoctoral researcher. 
 She will investigate the various ways how people interact with AI and how this knowledge can guide new human-centered approaches.
 
 We are excited to have her on board.

@@ -49,7 +49,7 @@ education:
     - course: BA in Philosophy
       institution: Aarhus University, Denmark
       year: 2012
-      camption: Minor in Cognitive Semiotics
+      caption: Minor in Cognitive Semiotics
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -83,4 +83,4 @@ user_groups:
   - Researchers
 ---
 
-Glenda is a **theory-driven** researcher who strive to bring together insights from **philosophy** and **sociology** with scientic and technological advancements in **computer science**. More specifically, she explore ways to fine-tune or modify various theories and **methods** used to develop AI and robotic systems to investigate how they influence the **everyday life** of people. As part of the research team, Glenda is extending her previous work on **interpersonal trust** in human-robot interaction by focusing on the intricate relation between trust and **knowledge** in the areas of **explainable AI** and **recommender systems**.
+Glenda is a **theory-driven** researcher who strives to bring together insights from **philosophy** and **sociology** with scientific and technological advancements in **computer science**. More specifically, she explores ways to fine-tune or modify various theories and **methods** used to develop AI and robotic systems to investigate how they influence the **everyday life** of people. As part of the research team, Glenda extends her previous work on **interpersonal trust** in human-robot interaction by focusing on the intricate relation between trust and **knowledge** in the areas of **explainable AI** and **recommender systems**.

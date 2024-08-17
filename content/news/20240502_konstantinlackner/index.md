@@ -21,7 +21,7 @@ image:
   placement: 500
 ---
 
-Today, [Konstantin Lackner](/author/konstantin-lackner) is joining our team. 
+Today, {{% mention "konstantin-lackner" %}} is joining our team. 
 With his HCI and AI background, he will conduct research in the field of recommender systems.
 
 We are excited to have him on board.

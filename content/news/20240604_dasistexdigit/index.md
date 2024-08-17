@@ -36,7 +36,7 @@ gallery_item:
 
 On June 4, 2024, we organized the event 'DAS ist EXDIGIT'.
 
-We had a discussion round with Governor of Salzburg Wilfried Haslauer, PLUS' Managing Rector Martin Weichbold, the Dean of Faculty of Digital and Analytical Sciences (DAS) Arne Bathke, and the EXDIGIT professors Franz-Benjamin Mocnik, Frank Pallas, and myself.
+We had a discussion round with Governor of Salzburg Wilfried Haslauer, PLUS' Managing Rector Martin Weichbold, the Dean of Faculty of Digital and Analytical Sciences (DAS) Arne Bathke, and the EXDIGIT professors Franz-Benjamin Mocnik, Frank Pallas, and {{% mention "christine-bauer" %}}.
 Afterward, we had a networking lunch and poster session to exchange ideas and getting to know everyone involved in EXDIGIT.
 
 It was also an excellent opportunity to have an EXDIGIT group photo---finally!

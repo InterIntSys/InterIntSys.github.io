@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-Just out and free to access: "Where are the Values? A Systematic Literature Review on News Recommender Systems" (by [Christine Bauer](/author/christine-bauer/), Chandni Bagchi, Olusanmi A Hundogan, and [Karin van Es](http://www.karinvanes.net)) was accepted for publication in [ACM Transaction on Recommender Systems (TORS)](https://tors.acm.org). The "Just Accepted" version is already online.
+Just out and free to access: "Where are the Values? A Systematic Literature Review on News Recommender Systems" (by {{% mention "christine-bauer" %}}, Chandni Bagchi, Olusanmi A Hundogan, and [Karin van Es](http://www.karinvanes.net)) was accepted for publication in [ACM Transaction on Recommender Systems (TORS)](https://tors.acm.org). The "Just Accepted" version is already online.
 This publication is part of the interdisciplinary project "Beyond clicks! Value-driven recommendations" with AI Labs (Utrecht University) and DPG Media.
 <br>
 <br>
