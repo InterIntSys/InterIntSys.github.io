@@ -10,16 +10,16 @@ sections:
       subtitle: Courses
       text: |-
         ## WT 2024/25
-        - AI Support for Supplementary Tasks in the Music and Art Sectors, DE, Konstantin Lackner and Christine Bauer   
-        - Advanced Contextual Interfaces, EN, Mascha Beuthel and Glenda Hannibal   
+        - AI Support for Supplementary Tasks in the Music and Art Sectors, DE, {{% mention "konstantin-lackner" %}}   and {{% mention "christine-bauer" %}}    
+        - Advanced Contextual Interfaces, EN, Mascha Beuthel and {{% mention "glenda-hannibal" %}}   
         
         ## ST 2024
-        - Recommender Systems, EN, Christine Bauer   
-        - Intelligent Interfaces, DE, Christine Bauer   
-        - Contextual Interaction Design, EN, Christopher Frauenberger and Christine Bauer   
+        - Recommender Systems, EN, {{% mention "christine-bauer" %}}   
+        - Intelligent Interfaces, DE, {{% mention "christine-bauer" %}}   
+        - Contextual Interaction Design, EN, Christopher Frauenberger and {{% mention "christine-bauer" %}}  
         
         ## WT 2023/24
-        - Advanced Contextual Interfaces, EN, Christine Bauer   
+        - Advanced Contextual Interfaces, EN, {{% mention "christine-bauer" %}}  
     design:
       columns: '2'
   - block: markdown
