@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PreDoc
+role: Predoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
