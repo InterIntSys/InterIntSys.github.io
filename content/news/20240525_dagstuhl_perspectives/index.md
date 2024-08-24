@@ -30,9 +30,10 @@ projects: []
 
 We had a very intense, yet amazing, seminar at Dagstuhl.
 
-Together with Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at), {{mention "christine-bauer"}} organized the [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211).
+Together with [Alan Said](https://www.alansaid.com) and [Eva Zangerle](https://evazangerle.at), {{% mention "christine-bauer" %}} organized the [Dagstuhl Seminar 24211: Evaluation Perspectives of Recommender Systems: Driving Research and Education](https://www.dagstuhl.de/24211).
 It was incredible having so many brilliant people discussing topics around the evaluation of recommender systems at one place!
 
 As some people are into quantitative measures ;-):
 Currently, the shared Overleaf document has 123 pages with more than 350 references.
+
 The official Dagstuhl report will follow soon.
