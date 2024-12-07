@@ -76,7 +76,10 @@ gallery_item:
   caption: "Left to right: Secretary of State for Arts and Culture Andrea Mayer and Salzburg's Governor Wilfried Haslauer at the opening. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class='fa-brands fa-creative-commons'></i><i class='fa-brands fa-creative-commons-by'></i><i class='fa-brands fa-creative-commons-nd'></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)"
 ---
 
-Panel together with Nina George, Paul Nemitz, Wolfgang Ullrich, and Marlies Wirth. The panel is moderated by Claudia Zettel.
+
+Panel together with 
+{{% mention "christine-bauer" %}} 
+Nina George, Paul Nemitz, Wolfgang Ullrich, and Marlies Wirth. The panel is moderated by Claudia Zettel.
 
 
 This event is organized by the [Federal Ministry Republic of Austria for Arts, Culture, Civil Service and Sport (BMKOES)](https://www.bmkoes.gv.at/en.html).

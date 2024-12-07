@@ -11,10 +11,10 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 
-event: Women in RecSys 2024, 18th ACM Conference on Recommender Systems (RecSys 2024)
+event: 18th ACM Conference on Recommender Systems (RecSys 2024)
 event_url: "https://recsys.acm.org/recsys24/"
 
-location:  Politecnico di Bari at University Campus
+location:  Teatro Petruzzell
 address:
 #  street: 
   city: Bari
@@ -27,16 +27,15 @@ abstract: "In the recommender systems field, it is increasingly recognized that 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-10-17T16:00:00.000Z
-#date_end: 2024-10-22 17:25:00
-all_day: true
+date: 2024-10-17T17:10:00.000Z
+date_end: 2024-10-17 17:25:00
+all_day: false
 
 # Schedule page publish date (NOT event date).
 publishDate: 2024-07-20T00:00:00+01:00
 
 authors:
 - Christine Bauer
-- Karin van Es
 tags: [talk, RecSys, Women in RecSys, evaluation, recommender systems, values, news recommender systems, news, systematic literature review, survey, TORS]
 
 # Is this a featured event? (true/false)
@@ -51,15 +50,15 @@ image:
   preview_only: false
   placement: 1
   
-# links:
+links:
 # Optional filename of your slides within your event's folder or a URL.
-#url_slides: ""
+url_slides: "it29_womeninrecsys2024_values-slides.pdf"
 #url_video: ""
 #url_code: ""
 #url_pdf:  ""
 
 
-projects: [beyondclicks]
+projects: []
 
 icons:
 - icon: trophy

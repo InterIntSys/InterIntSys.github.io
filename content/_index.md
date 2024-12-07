@@ -41,7 +41,7 @@ sections:
     content:
       slides:
       - title: 👋 Welcome to the group
-        content: Take a look at what we are working on...
+        content: ''
         align: center
         background:
           image:
@@ -50,11 +50,11 @@ sections:
               brightness: 0.7
           position: right
           color: '#FFFFFF'
- #       link:
- #         icon: eye
- #         icon_pack: fas
- #         text: Take a tour
- #         url: "#tour"
+        link:
+          icon: people-group
+          icon_pack: fas
+          text: Meet the team →
+          url: ../team/
       - title: We are part of EXDIGIT
         content: >-
           We are part of Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en) at the [Paris Lodron University Salzburg](https://plus.ac.at?lang=en), Austria.
@@ -84,16 +84,6 @@ sections:
           icon_pack: fas
           text: Interested in a thesis project?
           url: ../thesis-projects/
-      - title: We like coffee ☕️
-        content: "Let's talk about research over a coffee and explore exciting new topics together!"
-        align: left
-        background:
-          image:
-            filename: coffee.jpg
-            filters:
-              brightness: 0.8
-          position: center
-          color: '#FFFFFF'
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
@@ -116,21 +106,20 @@ sections:
       view: citation
       columns: '2'
 
-  - block: hero
-    id: meettheteam
+  - block: markdown
+    id: iis_topic
     content:
-      title: Meet the team
-      image:
-        filename: welcome.jpg
-      cta:
-        label: Meet the team →
-        url: ./team/
-        icon_pack: fas
-        icon: people-group
+      title: Interactive Intelligent Systems
       text: >-
-        Our research activities center on interactive intelligent systems, integrating research on intelligent technologies, the interaction of humans with intelligent systems, and heir interplay. 
+        Interactive intelligent systems are computational systems designed to dynamically interact with humans, and vice versa. Often, such systems are powered by artificial intelligence and other advanced technologies to respond to user inputs, learn from interactions, and improve their performance over time.
         <br><br>
-
+        In our research group, we integrate research on intelligent technologies, the interaction of humans with intelligent systems, and their interplay. In this field, our key expertise lies in recommender systems and human-AI interaction in its broader sense.
+        <br><br>
+        **In our research group, we investigate the full spectrum of recommender systems and human-AI interaction**: from (i) investigating humans’ needs of how such systems function to (ii) measuring the implications of these systems. This also includes (iii) evaluating their algorithmic performance, analyzing biases, or studying trust issues, and (iv) improving algorithmic approaches to better align with those needs.
+    design:
+      columns: '1'
+      background:
+        color: '#0c77a8'
   - block: contact
     id: contact
     content:

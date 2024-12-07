@@ -24,7 +24,7 @@ profile: false
 #  preview_only: false
 
 
-projects: [multimethod]
+projects: []
 publishDate: '2024-01-22T01:13:45.839142Z'
 publication_types: [report]
 publication: '*ACM SIGIR Forum*'

@@ -23,5 +23,6 @@ Diurnal patterns guide our everyday life. The basic idea of this thesis project 
 - Minsu Park, Jennifer Thom, Sarah Mennicken, Henriette Cramer, and Michael Macy. Global music streaming data reveal diurnal and seasonal patterns of affective preference. Nat Hum Behav 3, 230–236 (2019). https://doi.org/10.1038/s41562-018-0508-z
 - Ole Adrian Heggli, Jan Stupacher, and Peter Vuust. "Diurnal fluctuations in musical preference." Royal Society open science 8.11 (2021): Art No 210885. https://doi.org/10.1098/rsos.210885
 
-## Potentially relevant dataset:
-- MSSD
+## Potentially relevant datasets:
+- [MSSD](https://doi.org/10.1145/3308558.3313641)
+- [MLHD+](https://musicbrainz.org/doc/MLHD+)

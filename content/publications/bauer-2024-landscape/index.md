@@ -24,7 +24,7 @@ image:
   preview_only: false
   placement: 500
 
-projects: [multimethod]
+projects: []
 publishDate: '2024-03-07T01:13:47'
 publication_types: [article-journal]
 publication: '*ACM Transactions on Recommender Systems*'
@@ -35,4 +35,5 @@ abstract: "Recommender systems research and practice are fast-developing topics 
 
 doi: 10.1145/3629170
 authorizer: https://dl.acm.org/doi/10.1145/3629170?cid=81453628934
+url_poster: bauer-2024-landscape-poster.pdf
 ---

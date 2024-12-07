@@ -57,7 +57,7 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+#projects:
 
 gallery_item:
 - album: pd13_forumkultur2024b
@@ -68,7 +68,9 @@ gallery_item:
   caption: 'Left to right: Panel with Alexander Dumreicher-Ivanceanu, FAMA---Film and Music Austria, Christina Maaß, UNSECO Commission, Christine Bauer, Paris Lodron University Salzburg, Transmedia artist S()fia Braga, Patrick Ager, Bertelsmann. Image credit: **BMKÖS/HBF/D. Trippolt**, 2024.<br><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-nd"></i> [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)'
 ---
 
-Panel together with Patrik Ager, S()fia Braga, and Alexander Dumreicher-Ivanceanu, moderated by Christine Maass.
+Panel together with 
+{{% mention "christine-bauer" %}} 
+Patrik Ager, S()fia Braga, and Alexander Dumreicher-Ivanceanu, moderated by Christine Maass.
 
 This panel is organized in cooperation of the [Austrian Commission for UNESCO (ÖUK)](https://www.unesco.at/en/about-us/austrian-commission-for-unesco) and the [Federal Ministry Republic of Austria for Arts, Culture, Civil Service and Sport (BMKOES)](https://www.bmkoes.gv.at/en.html).
 

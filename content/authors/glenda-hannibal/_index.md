@@ -25,16 +25,17 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Human-Robot Interaction
-  - Social Robotics
+  - Trust
   - Explainable AI
   - Recommender Systems
-  - Philosophy of Trust
-  - Epistemology
-  - Philosophy of Science
-  - Metaphilosophy
-  - Metaphysics
+#  - Philosophy of Trust
+#  - Epistemology
+#  - Philosophy of Science
+#  - Metaphilosophy
+#  - Metaphysics
   - AI Ethics
+  - Human-Robot Interaction
+  - Social Robotics
 
 education:
   courses:
@@ -83,4 +84,4 @@ user_groups:
   - Researchers
 ---
 
-Glenda is a **theory-driven** researcher who strives to bring together insights from **philosophy** and **sociology** with scientific and technological advancements in **computer science**. More specifically, she explores ways to fine-tune or modify various theories and **methods** used to develop AI and robotic systems to investigate how they influence the **everyday life** of people. As part of the research team, Glenda extends her previous work on **interpersonal trust** in human-robot interaction by focusing on the intricate relation between trust and **knowledge** in the areas of **explainable AI** and **recommender systems**.
+Glenda is a **theory-driven** researcher who strives to bring together scientific and technological advancements in **computer science** with insights from **philosophy**. More specifically, she explores ways to fine-tune or modify various theories and **methods** used to evaluate  AI and robotic systems that influence people's **everyday life**. As part of the research team, Glenda extends her previous work on **interpersonal trust** in human-robot interaction by focusing on the intricate relation between trust and **knowledge** in the areas of **explainable AI** and **recommender systems**.

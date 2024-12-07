@@ -56,3 +56,5 @@ links:
 
 #projects: []
 ---
+
+{{< cite page="said-2024-introspectives" view="4" >}}
