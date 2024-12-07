@@ -10,7 +10,7 @@ sections:
       subtitle: Courses
       text: |-
         ## WT 2024/25
-        - AI Support for Supplementary Tasks in the Music and Art Sectors, DE, {{% mention "konstantin-lackner" %}}   and {{% mention "christine-bauer" %}}    
+        - AI Support for Supplementary Tasks in the Music and Art Sectors, DE, {{% mention "christine-bauer" %}} and Sebastian Gawron   
         - Advanced Contextual Interfaces, EN, Mascha Beuthel and {{% mention "glenda-hannibal" %}}   
         
         ## ST 2024
