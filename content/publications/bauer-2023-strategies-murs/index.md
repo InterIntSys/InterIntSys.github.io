@@ -22,7 +22,7 @@ profile: false
 #  focal_point: ''
 #  preview_only: false
 
-projects: [SpART2020]
+projects: []
 publishDate: '2023-09-19T01:13:46'
 publication_types: [paper-conference]
 publication: '*Music Recommender Systems Workshop*'

@@ -25,7 +25,7 @@ image:
   preview_only: false
   placement: 1
 
-projects: [beyondclicks]
+projects: []
 publishDate: '2024-03-27T01:13:47'
 publication_types: [article-journal]
 publication: '*ACM Transactions on Recommender Systems*'

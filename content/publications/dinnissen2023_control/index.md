@@ -27,7 +27,7 @@ image:
 #  alt_text: ""
 
 
-projects: [SpART2020]
+projects: []
 publishDate: '2023-05-25T01:13:46.135191Z'
 publication_types: [paper-conference]
 publication: '*24th International Society for Music Information Retrieval Conference*'

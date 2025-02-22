@@ -24,7 +24,7 @@ image:
   preview_only: false
 
 
-projects: [multimethod]
+projects: []
 publishDate: '2023-09-09T01:13:45.839142Z'
 publication_types: [periodical]
 

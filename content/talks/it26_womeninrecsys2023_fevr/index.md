@@ -56,7 +56,7 @@ image:
 #url_pdf:  ""
 
 
-projects: [multimethod]
+projects: []
 
 icons:
 - icon: trophy
