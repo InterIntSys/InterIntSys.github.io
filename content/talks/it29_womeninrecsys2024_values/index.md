@@ -14,7 +14,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: 18th ACM Conference on Recommender Systems (RecSys 2024)
 event_url: "https://recsys.acm.org/recsys24/"
 
-location:  Teatro Petruzzell
+location:  Teatro Petruzzelli
 address:
 #  street: 
   city: Bari
@@ -51,9 +51,8 @@ image:
   placement: 1
   
 links:
-# Optional filename of your slides within your event's folder or a URL.
 url_slides: "it29_womeninrecsys2024_values-slides.pdf"
-#url_video: ""
+url_video: https://youtu.be/UsU1Iu8eC7M?si=CTqBLYR2sR74-I5r
 #url_code: ""
 #url_pdf:  ""
 
@@ -66,6 +65,6 @@ icons:
   name: Women in RecSys Journal Paper of the Year Award 2024, Senior category
 ---
 
-
+{{< youtube "UsU1Iu8eC7M?si=CTqBLYR2sR74-I5r" >}}
 <br>
 {{< cite  page="bauer-2024-values" view="4" >}}
