@@ -57,7 +57,7 @@ sections:
           url: ../team/
       - title: We are part of EXDIGIT
         content: >-
-          We are part of Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en) at the [Paris Lodron University Salzburg](https://plus.ac.at?lang=en), Austria.
+          We are part of Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en) at the [University of Salzburg](https://plus.ac.at?lang=en), Austria.
           <br><br>
           EXDIGIT aims to strengthen interdisciplinary research skills in the field of digital sciences and interdisciplinary technologies in Salzburg.
         align: left
@@ -126,7 +126,7 @@ sections:
       title: Contact
       subtitle:
       text: >-
-        We are part of Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en) at the [Paris Lodron University Salzburg](https://plus.ac.at?lang=en), Austria.
+        We are part of Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en) at the [University of Salzburg](https://plus.ac.at?lang=en), Austria.
 
       email: pmo.exdigit@plus.ac.at
       phone: +43 662 8044 – 6370

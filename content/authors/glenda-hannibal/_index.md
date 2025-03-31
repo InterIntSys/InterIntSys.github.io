@@ -18,7 +18,7 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Paris Lodron University of Salzburg
+- name: University of Salzburg
   url: https://www.plus.ac.at
 
 # Short bio (displayed in user profile at end of posts)
