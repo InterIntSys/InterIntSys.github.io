@@ -75,3 +75,6 @@ links:
 
 projects: []
 ---
+
+{{< cite page="bauer2025_dagstuhl_cafe_report" view="4" >}}
+
