@@ -1,5 +1,5 @@
 ---
-title: "The perception of diversity in a set or sequence of recommendations (e.g., in a music playlist)"
+title: "The perception of diversity in a set or sequence of recommendations (e.g., in news recommendation)"
 summary: ""
 supervisors:
 - Christine Bauer
