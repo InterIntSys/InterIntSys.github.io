@@ -9,6 +9,13 @@ sections:
       title: Teaching
       subtitle: Courses
       text: |-
+      
+        ## WT 2025/26
+        - AI Eingangswerkstatt (Introduction to Artificial Intelligence), DE, Roland Kwitt and {{% mention "christine-bauer" %}}   
+        - AI Werkstatt (AI Workshop), DE, Roland Kwitt, Frank Pallas, and {{% mention "christine-bauer" %}}    
+        - Academic Writing and Peer Reviewing, EN, {{% mention "christine-bauer" %}}   
+
+      
         ## ST 2025
         - Recommender Systems, EN, {{% mention "christine-bauer" %}}   
         - Intelligent Interfaces, DE, {{% mention "christine-bauer" %}}   
