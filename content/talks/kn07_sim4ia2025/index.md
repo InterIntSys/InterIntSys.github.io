@@ -27,8 +27,8 @@ abstract: "Simulations of user interactions play an increasingly important role 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2025-07-17T09:15:00+02:00"
-#date_end: "2025-07-17T10:00:00+02:00"
-all_day: true
+date_end: "2025-07-17T10:00:00+02:00"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2025-05-18T00:00:00Z"
@@ -49,6 +49,8 @@ image:
 links:
 #url_code: ""
 #url_pdf: ""
-#url_slides: 
+url_slides: kn07_sim4ia2025_slides.pdf
 #url_video: ""
 ---
+
+![Photo of Christine Bauer (left-hand side) in front of a slide projection saying 'From toy models to tactics: What user simulation is good for'; next to Philipp Schaer introducing her (on the right-hand side)](sim4ia_chb.jpg "Christine Bauer and Philipp Schaer; Image credit: [**Ingo Frommholz**](https://frommholz.org)")

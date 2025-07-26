@@ -1,5 +1,5 @@
 ---
-title: "Context in Music Recommender Systems"
+title: "Context in music recommender systems"
 summary: ""
 supervisors:
 - Christine Bauer

@@ -55,7 +55,7 @@ sections:
       title: Systematic Literature Review topics
       subtitle: (for Bachelor thesis projects)
       text: >-
-        What about doing a [Systematic Literature Review, according to Kitchenham](https://www.elsevier.com/__data/promis_misc/525444systematicreviewsguide.pdf)?
+        What about doing a Systematic Literature Review, according to [Kitchenham](https://www.elsevier.com/__data/promis_misc/525444systematicreviewsguide.pdf) and/or [PRISMA](https://www.prisma-statement.org)?
         With such an approach, you would have to deal systematically with literature---and keep it well organized. It requires finding literature, documenting the process, labeling publications according to a prepared set of criteria, extracting some content from the papers (again in a labeled way), and probably aggregating labels to have a coherent picture. Then you could "quantify" the labels à la: X\% of papers deal with subtopic A, Y\% deal with subtopic B, Z\% deal with both topics, etc. To get an impression of what such work looks like, here are examples of systematic literature reviews that we have done:<br><br>
         {{< cite page="bauer-2024-values" view="1" >}}
         {{< cite page="bauer-2024-landscape" view="1" >}}
