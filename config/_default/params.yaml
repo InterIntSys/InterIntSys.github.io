@@ -19,7 +19,7 @@ marketing:
     site_type: ResearchOrganization
     local_business_type: ''
     org_name: 'Interactive Intelligent Systems Group'
-    description: 'Website of the research group Interactive Intelligent Systems Group at Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria.'
+    description: 'Website of the research group Interactive Intelligent Systems Group at Department of Artificial Intelligence and Human Interfaces (AIHI) at the University of Salzburg, Austria.'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -32,6 +32,10 @@ marketing:
   verification:
     google: ''
     baidu: ''
+
+# Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
+sharing_image: 'sharing'
+
 
 # Site header
 
@@ -83,7 +87,7 @@ features:
   privacy_pack:
     enable: true
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/InterIntSys/InterIntSys.github.io'
     content_dir: content
     branch: main
   avatar:
