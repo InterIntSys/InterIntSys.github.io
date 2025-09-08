@@ -53,8 +53,14 @@ links:
 #url_slides: ""
 #url_video: ""
 #url_proceedings: 
+doi: 10.1145/3640457.3687101
 
 #projects: []
 ---
+## Highlights
+* Keynote "People Who Liked This Also Liked … A Publication Analysis of Three Decades of Recommender Systems" by [Barry Smyth](https://barrysmyth.me/)
+* Panel with [Peter Brusilovsky](https://www.sci.pitt.edu/people/peter-brusilovsky), [Olivier Jeunen](https://olivierjeunen.github.io), and [Sole Pera](https://solepera.github.io)   
 
+<br>
+<br>
 {{< cite page="said-2024-introspectives" view="4" >}}

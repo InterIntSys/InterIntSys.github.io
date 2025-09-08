@@ -53,7 +53,8 @@ links:
 #url_pdf: ""
 #url_slides: ""
 #url_video: ""
-#url_proceedings: 
+url_proceedings: 'https://ceur-ws.org/Vol-3787/'
+doi: 10.1145/3640457.3687097
 
 #projects: []
 ---
