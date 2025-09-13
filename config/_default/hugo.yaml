@@ -21,7 +21,8 @@ removePathAccents: true
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
@@ -39,17 +40,18 @@ imaging:
   resampleFilter: MitchellNetravali
   quality: 95
   anchor: smart
+  hint: picture
 timeout: 600000
 taxonomies:
+  author: authors
   tag: tags
   category: categories
   publication_type: publication_types
-  author: authors
   supervisor: supervisors
 markup:
   _merge: deep
 related:
-  threshold: 90
+  threshold: 80
   includeNewer: true
   toLower: true
   indices:

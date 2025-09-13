@@ -139,3 +139,8 @@ show_related:
   project: true
   publication: true
   event: true
+reading_time: true
+section_pager: false
+docs_section_pager: false
+sharing: true
+abstract_length: 135
