@@ -81,7 +81,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
 Glenda is a **theory-driven** researcher who strives to bring together scientific and technological advancements in **computer science** with insights from **philosophy**. More specifically, she explores ways to fine-tune or modify various theories and **methods** used to evaluate  AI and robotic systems that influence people's **everyday life**. As part of the research team, Glenda extends her previous work on **interpersonal trust** in human-robot interaction by focusing on the intricate relation between trust and **knowledge** in the areas of **explainable AI** and **recommender systems**.
