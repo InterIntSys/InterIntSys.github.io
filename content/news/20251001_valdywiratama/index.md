@@ -1,12 +1,12 @@
 ---
-title: "Konstantin Lackner is joining our team"
+title: "Valdy Wiratama is joining our team"
 subtitle: ""
-summary: "Welcome to Konstantin Lackner to our team."
+summary: "Welcome to Valdy Wiratama to our team."
 authors: [Christine Bauer]
 #projects: []
 categories: [news]
 tags: [team, welcome]
-date: '2024-05-02T10:00:00Z'
+date: '2025-10-01T10:00:00Z'
 featured: false
 draft: false
 profile: false
@@ -21,7 +21,8 @@ image:
   placement: 500
 ---
 
-Today, Konstantin Lackner is joining our team. 
-With his HCI and AI background, he will conduct research in the field of recommender systems.
+Welcome {{% mention "valdy-wiratama" %}}  to EXDIGIT at Universität Salzburg! 👋
 
-We are excited to have him on board.
+Valdy's research will focus on algorithmic auditing for fairness in recommender systems, with a particular emphasis on the music domain 🎶.
+
+We are excited having Valdy join the team 🙂—bringing valuable expertise from the music sector and experience from Horizon projects.
