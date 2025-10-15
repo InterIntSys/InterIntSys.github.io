@@ -25,9 +25,11 @@ organizations:
 #bio: 
 
 interests:
-- Recommender systems
-- Algorithmic auditing
-- Music streaming services
+- Algorithmic governance
+- Fairness
+- Music recommender systems
+- Music streaming
+- Platform studies
 
 
 
@@ -37,19 +39,19 @@ education:
   courses:
   - course: Master of Arts (MA) in Cultural Economics and Entrepreneurship
     institution: Erasmus University Rotterdam, The Netherlands
-    #year: 2022
+    year: 2022
   - course: Bachelor (BA) in Economics
     institution: University of Indonesia, Indonesia
-    #year: 2018
+    year: 2018
 
 # Social/Academic Networking
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  icon_title: E-mail
-#  link: 'mailto:m.t.r.vredenborg@uu.nl'
+- icon: envelope
+  icon_pack: fas
+  icon_title: E-mail
+  link: 'mailto:valdi.wiratama@plus.ac.at'
 - icon: linkedin
   icon_pack: fab
   icon_title: LinkedIn
@@ -57,7 +59,7 @@ social:
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack // fasgraduation-cap
   icon_pack: ai
   icon_title: GoogleScholar
-  link: https://scholar.google.at/citations?user=51d5-aoAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=51d5-aoAAAAJ&hl=en
 - icon: orcid
   icon_pack: ai
   icon_title: ORCID
@@ -78,4 +80,4 @@ user_groups:
 ---
 
 
-Valdy Wiratama is a doctoral researcher at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the [University of Salzburg](https://www.plus.ac.at), Austria. In this role, Valdy contributes to the Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) initiative.  Valdy's PhD research project focuses on algorithmic auditing for fairness in recommender systems, with a particular emphasis on the music domain.
+Valdy Wiratama is a Doctoral Researcher at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the [University of Salzburg](https://www.plus.ac.at), Austria. In this role, Valdy contributes to the Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT) initiative. His research focuses on the intersection of **algorithmic governance**, **fairness**, and **socio-technical configurations** within **media platforms**. To advance this focus, his current work explores the potential and implications of **algorithmic auditing for fairness**, particularly in relation to **music recommender systems**. He has also done research work that addresses challenges related to fairness. These include transparency, discoverability, and sustainability at a pan-European level. 

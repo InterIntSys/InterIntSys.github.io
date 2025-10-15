@@ -1,7 +1,7 @@
 ---
 title: "Valdy Wiratama is joining our team"
 subtitle: ""
-summary: "Welcome to Valdy Wiratama to our team."
+summary: "Welcome Valdy Wiratama to our team."
 authors: [Christine Bauer]
 #projects: []
 categories: [news]

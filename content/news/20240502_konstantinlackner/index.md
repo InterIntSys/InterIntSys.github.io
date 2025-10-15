@@ -1,7 +1,7 @@
 ---
 title: "Konstantin Lackner is joining our team"
 subtitle: ""
-summary: "Welcome to Konstantin Lackner to our team."
+summary: "Welcome Konstantin Lackner to our team."
 authors: [Christine Bauer]
 #projects: []
 categories: [news]
