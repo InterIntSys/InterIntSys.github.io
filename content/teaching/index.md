@@ -22,7 +22,7 @@ sections:
         - Planning and Writing of Research Project Proposals, EN, {{% mention "christine-bauer" %}}   
         
         ## WT 2024/25
-        - Advanced Contextual Interfaces, EN, Mascha Beuthel and {{% mention "glenda-hannibal" %}}   
+        - Advanced Contextual Interfaces, EN, Mascha Beuthel and Glenda Hannibal      
         - AI Support for Supplementary Tasks in the Music and Art Sectors, DE, {{% mention "christine-bauer" %}} and Sebastian Gawron   
         
         ## ST 2024
