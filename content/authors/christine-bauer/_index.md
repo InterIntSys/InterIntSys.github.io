@@ -27,6 +27,7 @@ organizations:
 interests:
 - Recommender systems
 - Fairness
+- Evaluation
 - Applied AI
 - Human-centered computing
 - Context-adaptive systems
