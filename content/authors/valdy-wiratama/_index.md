@@ -51,7 +51,7 @@ social:
 - icon: envelope
   icon_pack: fas
   icon_title: E-mail
-  link: 'mailto:valdi.wiratama@plus.ac.at'
+  link: 'mailto:valdy.wiratama@plus.ac.at'
 - icon: linkedin
   icon_pack: fab
   icon_title: LinkedIn
