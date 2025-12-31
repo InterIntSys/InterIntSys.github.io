@@ -110,6 +110,10 @@ social:
 #  icon_pack: ai
 #  icon_title: Zotero
 #  link: https://www.zotero.org/christine_bauer/cv
+#- icon: globe
+#  icon_pack: fas
+#  icon_title: ScholarGPS
+#  link: https://scholargps.com/scholars/21361098773777/christine-bauer
 #- icon: impactstory
 #  icon_pack: ai
 #  link: https://profiles.impactstory.org/u/0000-0001-5724-1137
@@ -120,7 +124,7 @@ social:
 #- icon: chart-bar
 #  icon_pack: far
 #  icon_title: Top 2% Scientists
-#  link: https://topresearcherslist.com/Home/Profile?AuthFull=Bauer,%20Christine&FirstYear=2006
+#  link: https://topscinet.com/scientist_profile/Bauer,%20Christine/2006/?stype=single_year
 #- icon: person-dress
 #  icon_pack: fas
 #  icon_title: Speakerinnen
@@ -128,7 +132,7 @@ social:
 #- icon: person-dress
 #  icon_pack: fas
 #  icon_title: Frauendomaene  
-#  link: https://www.frauendomaene.at/user/christinebauer1/
+#  link: https://www.frauendomaene.at/user/christinebauer/
 #- icon: youtube
 #  icon_pack: fab
 #  icon_title: YouTube
