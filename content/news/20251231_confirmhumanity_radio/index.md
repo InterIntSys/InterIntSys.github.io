@@ -1,7 +1,7 @@
 ---
 title: 'Radio episodes out now: Confirm Humanity—Epochenbruch'
 subtitle: ""
-summary: "Christine Bauer featured in three episodes of the radio/podcast series *Confirm Humanity—Epochenbruch*, discussing AI, social justice, education, and the arts."
+summary: "Christine Bauer contributes to three episodes of the radio/podcast series *Confirm Humanity—Epochenbruch*, discussing AI, social justice, education, and the arts."
 authors: [Christine Bauer]
 categories: [news]
 tags: [artificial intelligence, AI, algorithms, social justice, education, work, arts, culture, humanity, communication to the public, radio, podcast]
@@ -37,7 +37,7 @@ https://cba.media/podcast/confirm-humanity-epochenbruch
 This episode focuses on **social justice in data-driven societies**, highlighting how algorithms are often framed as neutral, while they reflect social structures and can reinforce existing inequalities.
 
 {{% mention "christine-bauer" %}} 
-discusses how recommender systems in music and media affect visibility and access, emphasizing that fairness is not only about the data, but requires an understanding of **algorithms and their social embedding**.
+discusses how recommender systems in music and media affect visibility and access, emphasizing that fairness is not only about the data, but requires an understanding of **algorithms and their social context**.
 
 Episode link:
 https://cba.media/751431
@@ -60,7 +60,7 @@ https://cba.media/751435
 
 ## Episode 5/5: Kunst und Künstliche Intelligenz (Art and AI)
 
-The final episode explores **art, culture, and AI**. On the one hand, the discussion covers how generative AI is reshaping artistic practice, creative processes, and cultural production. On the other hand, topics include workflow and accessibility challenges, as well as questions of **authorship, intellectual property, and value creation**. The discussion also addresses the evolving dynamics of AI in the music sector, ranging from experimentation and enthusiasm to caution and concern (---the typical tech panic").
+The final episode explores **art, culture, and AI**. On the one hand, the discussion covers how generative AI is reshaping artistic practice, creative processes, and cultural production. On the other hand, topics include workflow and accessibility challenges, as well as questions of **authorship, intellectual property, and value creation**. The discussion also addresses the evolving dynamics of AI in the music sector, ranging from experimentation and enthusiasm to caution and concern (---the typical "tech panic").
 
 Episode link:
 https://cba.media/751436
