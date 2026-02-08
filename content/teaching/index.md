@@ -9,6 +9,11 @@ sections:
       title: Teaching
       subtitle: Courses
       text: |-
+ 
+         ## ST 2026
+        - Recommender Systems, EN, {{% mention "christine-bauer" %}}   
+        - Intelligent Interfaces, DE, {{% mention "christine-bauer" %}}   
+ 
       
         ## WT 2025/26
         - AI Eingangswerkstatt (Introduction to Artificial Intelligence), DE, Roland Kwitt and {{% mention "christine-bauer" %}}   
