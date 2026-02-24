@@ -54,3 +54,6 @@ url_slides: kn07_sim4ia2025_slides.pdf
 ---
 
 ![Photo of Christine Bauer (left-hand side) in front of a slide projection saying 'From toy models to tactics: What user simulation is good for'; next to Philipp Schaer introducing her (on the right-hand side)](sim4ia_chb.jpg "Christine Bauer and Philipp Schaer; Image credit: [**Ingo Frommholz**](https://frommholz.org)")
+
+<br>
+{{< cite page="schaer-2026-sigirforum-sim4ia" view="4" >}}
