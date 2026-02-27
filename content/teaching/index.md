@@ -12,7 +12,6 @@ sections:
  
 
         ## ST 2026
-        - Recommender Systems, EN, {{% mention "christine-bauer" %}}   
         - Intelligent Interfaces, DE, {{% mention "christine-bauer" %}}   
 
       
