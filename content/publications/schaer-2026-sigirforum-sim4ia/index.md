@@ -19,7 +19,7 @@ authors:
 - Saber Zerhoudi
 tags: [Sim4IA, information access, simulation]
 categories: []
-date: '2026-02-17'
+date: '2026-03-04'
 featured: false
 draft: false
 profile: false
@@ -34,7 +34,7 @@ profile: false
 
 
 #projects: []
-publishDate: '2024-01-22T01:13:45.839142Z'
+publishDate: '2026-03-04T01:13:45.839142Z'
 publication_types: [report]
 publication: '*ACM SIGIR Forum*'
 
@@ -42,6 +42,6 @@ abstract: 'This paper is a report of the Workshop on Simulations for Information
 Date: 17 July 2025.<br>
 Website: https://sim4ia.org/sigir2025.'
 
-#doi: 
-#authorizer: https://dl.acm.org/doi/10.1145/3642979.3643000?cid=81453628934
+doi: 10.1145/3799914.3799927
+authorizer: https://dl.acm.org/doi/10.1145/3799914.3799927?cid=81453628934
 ---
