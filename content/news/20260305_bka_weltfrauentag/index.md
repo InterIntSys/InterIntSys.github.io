@@ -47,8 +47,8 @@ gallery_item:
   caption: 'Image credit: [**BKA/CHRISTOPHER DUNKER**](https://fotoservice.bundeskanzleramt.at/bka/staatssekretaer_proell/20260305_Veranstaltungen_Weltfrauentag.html), 2026.'
 ---
 
-{{% mention "christine-bauer" %}}  
- had the great honor of participating in a panel at the [Federal Chancellery of Austria](https://www.bundeskanzleramt.gv.at/en/) on the occasion of International Women's Day. [State Secretary Pröll](https://www.bundeskanzleramt.gv.at/bundeskanzleramt/staatssekretaer-alexander-proell.html) hosted an event featuring four panels---business, science, arts and culture, and politics. She was privileged to join the discussion on women in science as one of the panelists, sharing insights and celebrating the achievements of women in the field.
+{{% mention "christine-bauer" %}} 
+had the great honor of participating in a panel at the [Federal Chancellery of Austria](https://www.bundeskanzleramt.gv.at/en/) on the occasion of International Women's Day. [State Secretary Pröll](https://www.bundeskanzleramt.gv.at/bundeskanzleramt/staatssekretaer-alexander-proell.html) hosted an event featuring four panels---business, science, arts and culture, and politics. She was privileged to join the discussion on women in science as one of the panelists, sharing insights and celebrating the achievements of women in the field.
 
 <br>
 {{< gallery album="20260305_bka_weltfrauentag" >}}
