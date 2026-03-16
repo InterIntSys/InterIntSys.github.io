@@ -70,4 +70,3 @@ Participants:
 
 <br>
 {{< gallery album="20260305_bka_weltfrauentag" >}}
-
