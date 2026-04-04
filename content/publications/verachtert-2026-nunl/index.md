@@ -40,8 +40,9 @@ publication_short: UMAP '26
 
 abstract: ""
 
-altmetric: false
+altmetric: true
 plumx: false
 dimensions: false
 doi: 10.1145/3774935.3806153
+authorizer:  https://dl.acm.org/doi/10.1145/3774935.3806153?cid=81453628934
 ---
