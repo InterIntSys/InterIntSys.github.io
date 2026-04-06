@@ -48,7 +48,7 @@ abstract: >-
     - Volume 4: Tutorial Papers, Industry Papers, Demo Papers, CLEF Overview Papers, and Resource Papers.
 
 #publication: 'Advances in Information Retrieval, 48th European Conference on Information Retrieval, ECIR 2026, Delft, The Netherlands, March 29 -- April 2, 2026, Proceedings, Parts I--IV'
-publication_short: CHIIR 2023
+publication_short: ECIR 2026
 
 links:
 - name: DOI Part I
