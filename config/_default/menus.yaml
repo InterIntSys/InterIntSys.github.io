@@ -22,9 +22,12 @@ main:
   - name: <i class="fa-solid fa-file-lines"></i> Publications
     url: publications
     weight: 60
+  - name: <i class="fa-solid fa-bullhorn"></i> Media & Press
+    url: media
+    weight: 70
   - name: <i class="fa-solid fa-person-chalkboard"></i> Teaching
     url: teaching
-    weight: 70
+    weight: 80
   - name: <i class="fa-solid fa-graduation-cap"></i> Thesis projects
     url: thesis-projects
     weight: 90
