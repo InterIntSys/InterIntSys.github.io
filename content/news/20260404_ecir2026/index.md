@@ -1,0 +1,78 @@
+---
+title: "ECIR 2026 in Delft"
+subtitle: ""
+summary: "Christine Bauer has just returned from ECIR 2026 in Delft, The Netherlands; Short Paper Chair with Sean MacAvaney and Mohammad Aliannejadi; proceedings in four parts; mentoring of two PhD students."
+authors: [Christine Bauer]
+categories: [news]
+tags: [ECIR, information access, information retrieval, conference, short paper chair]
+date: '2026-04-04T00:00:00Z'
+featured: false
+draft: false
+profile: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: "Christine Bauer, Sean MacAvaney, Mohammad Aliannejadi. Image credit: [**Ingo Frommholz**](https://frommholz.org), 2026."
+  focal_point: "Smart"
+#  preview_only: true
+  placement: 500
+
+gallery_item:
+- album: ecir2026
+  image: 1_ecir2026_sp_team.jpeg
+  caption: 'Image credit: [**Ingo Frommholz**](https://frommholz.org), 2026.'
+- album: ecir2026
+  image: zz_tudelft.jpg
+  caption: 'Image credit: [**Ingo Frommholz**](https://frommholz.org), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Breakouts-215.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: zz_Fotografeelgood_ECIR2026_Breakouts-397.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Breakouts-404.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day3-215.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day3-333.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day3-333.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day4-099.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day4-103.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day4-110.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: 2_Fotografeelgood_ECIR2026_Day4-123.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+- album: ecir2026
+  image: Fotografeelgood_ECIR2026_Day4-133.jpg
+  caption: 'Image credit: [**Fotografeelgood – Bart van Leeuwen**](https://www.fotografeelgood.nl/), 2026.'
+---
+
+{{% mention "christine-bauer" %}} 
+has just returned from [ECIR 2026](https://ecir2026.eu), held in Delft, The Netherlands, from 29 March to 2 April 2026.
+
+This year, she served as a Short Paper Chair alongside [Sean MacAvaney](https://macavaney.us) and [Mohammad Aliannejadi](https://aliannejadi.com). The short paper track proved competitive, attracting 108 submissions, of which only 37 were accepted (≈34% acceptance rate).
+
+Beyond her organizational leadership in the short paper track, {{% mention "christine-bauer" %}}  
+also mentored two excellent early-career researchers at the ECIR 2026 Doctoral Consortium.
+
+The conference proceedings are published by Springer in four parts within the Lecture Notes in Computer Science series.
+
+<br>
+{{< cite page="campos-2026-ecir" view="4" >}}
+
+<br>
+{{< gallery album="ecir2026" >}}
