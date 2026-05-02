@@ -8,7 +8,7 @@ sections:
   - block: hero
     id: welcome
     content:
-      title: Interactive Intelligent Systems Group
+      title: Interactive Intelligent Systems Research Group
       image:
         filename: welcome.jpg
       text: >-
