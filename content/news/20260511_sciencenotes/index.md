@@ -5,7 +5,7 @@ summary: "Christine Bauer was interviewed by Science Notes about what 'fairness'
 authors: [Christine Bauer]
 categories: [news]
 tags: [music, recommender systems, fairness, gender, gender bias, communication to the public]
-date: '2026-05-10T00:00:00Z'
+date: '2026-05-11T00:00:00Z'
 featured: false
 draft: false
 profile: false
