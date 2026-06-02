@@ -2,7 +2,7 @@
 title: "Hat-trick at UMAP 2026"
 subtitle: ""
 summary: "Three full papers have been accepted at the upcoming UMAP 2026 conference."
-#authors: [Christine Bauer]
+authors: [Christine Bauer]
 #projects: []
 categories: [news]
 tags: [UMAP, paper, user modeling, personalization]
