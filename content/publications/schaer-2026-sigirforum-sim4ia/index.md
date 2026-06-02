@@ -43,5 +43,4 @@ Date: 17 July 2025.<br>
 Website: https://sim4ia.org/sigir2025.'
 
 doi: 10.1145/3799914.3799927
-authorizer: https://dl.acm.org/doi/10.1145/3799914.3799927?cid=81453628934
 ---

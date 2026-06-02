@@ -34,5 +34,4 @@ Date: 19 September 2023.<br>
 Website: https://perspectives-ws.github.io/2023/'
 
 doi: 10.1145/3642979.3643000
-authorizer: https://dl.acm.org/doi/10.1145/3642979.3643000?cid=81453628934
 ---

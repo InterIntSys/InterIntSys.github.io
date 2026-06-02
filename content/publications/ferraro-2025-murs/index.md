@@ -33,5 +33,4 @@ publication_short: RecSys 2025
 abstract: 'Music recommendation has been a core area of interest within the recommender systems community since its early days. With the rise of music streaming platforms, algorithmic recommendations have become central to the music industry. However, critical challenges remain concerning the design, evaluation, and societal impact of music recommender systems. This third edition of the Music Recommender Systems Workshop (MuRS) centers on the growing influence of generative content on music recommendation. The rapid influx of AI-generated music transforms the streaming ecosystem, raising critical questions about discoverability, authenticity, and the curational role of recommender systems. The challenges and opportunities associated with AI-generated content extend beyond music and recommender systems, demanding transparent, fair, and accountable recommendation frameworks that reflect the interests of the diverse set of stakeholders.'
 
 doi: 10.1145/3705328.3748000
-authorizer: https://dl.acm.org/doi/10.1145/3705328.3748000?cid=81453628934
 ---

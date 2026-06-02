@@ -45,7 +45,6 @@ Finally, participants desire that music streaming services take charge of increa
 
 doi: 10.1145/3609987.3610011
 url_slides: dinnissen2023_faccts_slides.pdf
-authorizer: https://dl.acm.org/doi/10.1145/3609987.3610011?cid=81453628934
 url_video: https://youtu.be/UOokkP7zPeM?si=CQzYtFBD1yxY8trP
 links:
 - icon: file

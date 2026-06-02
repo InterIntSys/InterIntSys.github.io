@@ -33,5 +33,4 @@ Date: 21 October 2023.<br>
 Website: https://uobevents.eventsair.com/cikm2023/phd-symposium-programme---saturday-21st-october"
 
 doi: 10.1145/3642979.3643003
-authorizer: https://dl.acm.org/doi/10.1145/3642979.3643003?cid=81453628934
 ---

@@ -37,7 +37,6 @@ abstract: "As recommender systems are prone to various biases, mitigation approa
 In this work, we examine that feedback loop to study whether algorithmic strategies or user behavior are a greater contributor to ongoing improvement (or loss) in fairness as models are repeatedly re-trained on new user feedback data. We simulate user interaction and re-training to investigate the effects of ranking strategies and user choice models on gender fairness metrics. We find re-ranking strategies have a greater effect than user choice models on recommendation fairness over time."
 
 doi: 10.1145/3640457.3688163
-#authorizer: https://dl.acm.org/doi/10.1145/3640457.3688163?cid=81453628934
 links: 
 - icon: arxiv
   icon_pack: ai

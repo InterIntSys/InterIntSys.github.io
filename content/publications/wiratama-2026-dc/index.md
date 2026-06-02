@@ -38,5 +38,4 @@ altmetric: true
 plumx: false
 dimensions: false
 doi: 10.1145/3774935.3803067
-#authorizer: 
 ---

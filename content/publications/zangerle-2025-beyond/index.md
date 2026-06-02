@@ -33,5 +33,4 @@ publication_short: RecSys 2025
 abstract: 'This workshop challenges the machine learning-centric focus of modern recommender systems research by reconnecting the field with its interdisciplinary origins and exploring the non-algorithmic dimensions that are crucial to effective recommendation. It fosters a space for reflective, critical, and creative discussions on recommender systems that embrace human values, user experiences, and societal impact. The workshop emphasizes methodological diversity and invites contributions from psychology, human-computer interaction, ethics, design, and other disciplines.'
 
 doi: 10.1145/3705328.3747998
-authorizer: https://dl.acm.org/doi/10.1145/3705328.3747998?cid=81453628934
 ---

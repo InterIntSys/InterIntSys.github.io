@@ -32,7 +32,6 @@ profile: false
 #  preview_only: false
 
 
-projects: []
 publishDate: '2026-03-26T01:13:45.989615Z'
 publication_types: [paper-conference]
 publication: '*34th ACM International Conference on User Modeling, Adaptation and Personalization*'
@@ -44,5 +43,4 @@ altmetric: true
 plumx: false
 dimensions: false
 doi: 10.1145/3774935.3806153
-authorizer: https://dl.acm.org/doi/10.1145/3774935.3806153?cid=81453628934
 ---
