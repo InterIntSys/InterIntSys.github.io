@@ -46,4 +46,3 @@ image:
   focal_point: Smart
   placement: 300
 ---
-
