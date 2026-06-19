@@ -14,7 +14,7 @@ sections:
           - Affiliate Researchers
           - Grad Students
           - Administration
-          - Visitors
+          - Guest Researchers
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
