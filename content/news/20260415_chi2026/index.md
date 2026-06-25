@@ -2,7 +2,7 @@
 title: "CHI 2026 poster presented in Barcelona"
 subtitle: ""
 summary: "Anouk van Kasteren presents CHI 2026 poster in Barcelona, Spain."
-#authors: [Christine Bauer]
+authors: [Christine Bauer]
 #projects: []
 categories: [news]
 tags: [CHI, route choices, user choice, traveler experience, user modeling, conference]

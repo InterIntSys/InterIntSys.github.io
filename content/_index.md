@@ -127,7 +127,7 @@ sections:
       title: Contact
       subtitle:
       text: >-
-        We are part of *Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT)* at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [University of Salzburg](https://plus.ac.at?lang=en), Austria. Our research group is affiliated with the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en).
+        We are part of the *Excellence in Digital Sciences and Interdisciplinary Technologies (EXDIGIT)* initiative at the [Faculty of Digital and Analytical Sciences](https://www.plus.ac.at/digital-and-analytical-sciences/?lang=en) at the [University of Salzburg](https://plus.ac.at?lang=en), Austria. Our research group is affiliated with the [Department of Artificial Intelligence and Human Interfaces (AIHI)](https://www.plus.ac.at/aihi/?lang=en).
 
       email: pmo.exdigit@plus.ac.at
       phone: +43 662 8044 – 6370
