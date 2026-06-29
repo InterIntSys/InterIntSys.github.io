@@ -25,4 +25,4 @@ We are happy to welcome {{% mention "robin-ungruh" %}} as  a visiting researcher
 
 Robin's research centers on the intersection of recommender systems and children, with a particular emphasis on understanding how children interact with these systems. During the visit, we will collaborate on exploring how children respond to music recommender systems, specifically in situations where the recommendations do not match what they were looking for.
 
-We are delighted to hos Robin in Salzburg and gratefully acknowledge the support of the [Scientist-in-Residence](https://www.stadt-salzburg.at/kultur/sir) program by [Stadt Salzburg](https://www.stadt-salzburg.at/).
+We are delighted to host Robin in Salzburg and gratefully acknowledge the support of the [Scientist-in-Residence](https://www.stadt-salzburg.at/kultur/sir) program by [Stadt Salzburg](https://www.stadt-salzburg.at/).
