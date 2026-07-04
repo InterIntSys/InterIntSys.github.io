@@ -1,7 +1,7 @@
 ---
 title: "Study and hands-on workshop on music recommender systems at a school"
 subtitle: ""
-summary: "On Robin Ungruh's first day in Salzburg, our team ran a study with children at a local school, introducing how recommender systems work and exploring how pupils react to music recommendations."
+summary: "On Robin Ungruh's first day in Salzburg, our team ran a study with children at a local school, introducing how recommender systems work and exploring how school kids react to music recommendations."
 authors: [Christine Bauer]
 #projects: []
 categories: [news]
@@ -25,7 +25,7 @@ On {{% mention "robin-ungruh" %}}'s
 very first day in Salzburg, we swapped the office for a schoolroom. 
 We conducted a study with children at a local school, introducing how recommender systems work and exploring how pupils react to music recommendations.
 
-It was great fun--and we were impressed by how much the school kids already knew and by their eagerness to learn more and share examples.
+It was great fun---and we were impressed by how much the school kids already knew and by their eagerness to learn more and share examples.
 
 Many thanks to our facilitators running the study: Klara, Florian, Simon,  Andreas, {{% mention "robin-ungruh" %}}, 
 and {{% mention "christine-bauer" %}}.
