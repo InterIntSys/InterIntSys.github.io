@@ -30,7 +30,7 @@ interests:
 - Evaluation
 - Applied AI
 - Human-centered computing
-- Context-adaptive systems
+- Music and media sectors
 
 
 # Education to show in About widget
