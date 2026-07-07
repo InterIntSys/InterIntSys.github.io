@@ -18,10 +18,9 @@ profile: false
 #  caption: ""
 #  focal_point: "Smart"
 #  preview_only: true
-#  placement: 500
+#  placement: 300
 
 ---
-
 
 **Three full papers** have been accepted at the upcoming A-rated [UMAP 2026](https://www.um.org/umap2026/) conference:
 

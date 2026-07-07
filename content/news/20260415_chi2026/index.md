@@ -30,7 +30,7 @@ This work investigates how context influences travelers' route choices when serv
 
 A [follow-up study](/publications/vankasteren-2026-modelling) will be presented at UMAP 2026 later this year.
 
-What work is the result of a collaboration with [Anouk van Kasteren](https://anoukvankasteren.com/), [Marloes Vredenborg](https://marloesvredenborg.com/), and [Judith Masthoff](https://www.uu.nl/staff/JFMMasthoff).
+This work is the result of a collaboration with [Anouk van Kasteren](https://anoukvankasteren.com/), [Marloes Vredenborg](https://marloesvredenborg.com/), and [Judith Masthoff](https://www.uu.nl/staff/JFMMasthoff).
 
 <br>
 {{< cite page="vankasteren-2026-nowwhat" view="4" >}}

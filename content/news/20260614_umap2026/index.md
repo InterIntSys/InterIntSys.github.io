@@ -9,6 +9,16 @@ date: '2026-06-14T00:00:00Z'
 featured: false
 draft: false
 profile: false
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+#  caption: ""
+  focal_point: "Smart"
+#  preview_only: true
+  placement: 300
 ---
 
 Last week, [UMAP 2026](https://www.um.org/umap2026/) took place in Gothenburg, Sweden.
