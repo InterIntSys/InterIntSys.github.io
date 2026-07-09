@@ -14,7 +14,7 @@ profile: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Study on the discoverability of diverse European cultural content in the digital environment"
+  caption: "Cover photo: © Andriy Onufriyenko / Getty Images, Data Personalisation"
   focal_point: "Smart"
 #  preview_only: true
   placement: 500
