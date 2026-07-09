@@ -7,7 +7,7 @@ categories: [news]
 tags: [discoverability, cultural content, recommender systems, European Commission, music]
 date: '2026-04-20T00:00:00Z'
 featured: false
-draft: true
+draft: false
 profile: false
 
 # Featured image
