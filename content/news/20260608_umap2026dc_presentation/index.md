@@ -1,14 +1,14 @@
 ---
-title: "Valdy Wiratama presents at ACM UMAP 2026 Doctoral Consortium"
+title: "Valdy Wiratama presents at UMAP 2026 Doctoral Consortium"
 subtitle: ""
-summary: "Valdy Wiratama presented his PhD research at the ACM UMAP 2026 Doctoral Consortium in Gothenburg, Sweden."
+summary: "Valdy Wiratama presented his PhD research at the UMAP 2026 Doctoral Consortium in Gothenburg, Sweden."
 authors: [Valdy Wiratama]
 #projects: []
 categories: [news]
-tags: [user modeling, personalization, recommender systems, fairness, UMAP, doctoral consortium]
+tags: [user modeling, personalization, recommender systems, fairness, auditing, UMAP, doctoral consortium]
 date: '2026-06-08T00:00:00Z'
 featured: false
-draft: true
+# draft: false
 profile: false
 
 # Featured image
@@ -18,11 +18,11 @@ image:
   caption: "Valdy Wiratama presenting at the ACM UMAP 2026 Doctoral Consortium in Gothenburg, Sweden"
   focal_point: "Smart"
 #  preview_only: true
-  placement: 500
+  placement: 1
 
 ---
 
-{{% mention "valdy-wiratama" %}} attended the [34th ACM Conference on User Modeling, Adaptation and Personalization (ACM UMAP 2026)](https://www.um.org/umap2026/), which took place in Gothenburg, Sweden. ACM UMAP is a CORE A-ranked venue.
+{{% mention "valdy-wiratama" %}} attended the [34th ACM Conference on User Modeling, Adaptation and Personalization (UMAP 2026)](https://www.um.org/umap2026/), which took place in Gothenburg, Sweden. ACM UMAP is a CORE A-ranked venue.
 
 At the conference, he presented his paper, [Towards a Stakeholder-Centered Auditing Framework for Assessing Fairness in (Music) Recommender Systems](/publications/wiratama-2026-dc), as part of the Doctoral Consortium. The paper outlines his PhD research on algorithmic auditing for fairness in recommender systems, with the aim of developing an auditing framework that accounts for multiple stakeholder perspectives and interests in the music domain.
 
