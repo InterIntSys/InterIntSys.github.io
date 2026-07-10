@@ -7,21 +7,21 @@ categories: [news]
 tags: [discoverability, cultural content, recommender systems, European Commission, music]
 date: '2026-04-20T00:00:00Z'
 featured: false
-draft: true
+draft: false
 profile: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: "Cover photo: © Andriy Onufriyenko / Getty Images, Data Personalisation"
+  caption: "Image credit: [**Andriy Onufriyenko**](https://www.gettyimages.com/detail/photo/data-personalisation-royalty-free-image/2207848138) from [**Getty Images**](https://www.gettyimages.com/detail/photo/data-personalisation-royalty-free-image/2207848138)"  
   focal_point: "Smart"
-#  preview_only: true
+#  preview_only: false
   placement: 500
 
 ---
 
-{{% mention "valdy-wiratama" %}} co-authored the newly published [Study on the discoverability of diverse European cultural content in the digital environment – Final report](/publications/clarke-2026-discoverability), commissioned by the European Commission under the EU Work Plan for Culture 2023–2026.
+{{% mention "valdy-wiratama" %}} co-authored the newly published [Study on the discoverability of diverse European cultural content in the digital environment -- Final report](/publications/clarke-2026-discoverability), commissioned by the European Commission under the EU Work Plan for Culture 2023–2026.
 
 The report examines how discoverability has become a critical factor in determining which cultural works rise above the "digital noise" and reach audiences online. With a primary focus on music and books, the study addresses a digital environment in which platforms, algorithms, curation practices, and recommender systems increasingly play a gatekeeping role in shaping access to culture.
 
