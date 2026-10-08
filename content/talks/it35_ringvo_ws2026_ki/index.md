@@ -12,7 +12,7 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 
 
 event: "RingVO: Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft"
-event_url: https://w-k.sbg.ac.at/en/current-events/
+event_url: https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-gesellschaft/
 
 location: Atelier im KunstQuartier
 address:
