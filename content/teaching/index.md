@@ -14,13 +14,14 @@ sections:
         ## WT 2026/27
         - AI Eingangswerkstatt (Introduction to Artificial Intelligence), DE, Roland Kwitt and {{% mention "christine-bauer" %}}   
         - Machine Learning, DE, Roland Kwitt and {{% mention "christine-bauer" %}}    
-        - Academic Writing and Peer Reviewing, EN, {{% mention "christine-bauer" %}}   
-        - Arrived to stay: AI in art, research and society, DE, {{% mention "christine-bauer" %}}, Martin Losert, and Katarzyna Grebosz-Haring   
+        - Public Lecture Series: Arrived to stay. AI in Art, Research and Society, DE, {{% mention "christine-bauer" %}}, Martin Losert, and Katarzyna Grebosz-Haring   
         - Research Seminar DSP Organization Studies, EN, {{% mention "christine-bauer" %}}, Simon Oertel, Tuulia Ortner, Christine Vallaster, and Peter Winkler   
 
 
         ## ST 2026
         - Intelligent Interfaces, DE, {{% mention "christine-bauer" %}}   
+        - Research Seminar DSP Organization Studies, EN, {{% mention "christine-bauer" %}}, Simon Oertel, Tuulia Ortner, Astrid Reichel, Christine Vallaster, and Peter Winkler   
+
 
       
         ## WT 2025/26
