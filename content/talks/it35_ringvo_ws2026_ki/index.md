@@ -11,10 +11,10 @@ commentable: false  # Allow visitors to comment? Supported by the Page, Post, an
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
 
-event: "RingVO: Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft"
+event: "Public lecture series | Gekommen, um zu bleiben. KI in Kunst, Forschung und Gesellschaft"
 event_url: https://w-k.sbg.ac.at/veranstaltung/gekommen-um-zu-bleiben-ki-in-kunst-forschung-und-gesellschaft/
 
-location: Atelier im KunstQuartier
+location: W&K-Atelier, 1. OG, KunstQuartier
 address:
   street: Bergstraße 12a
   city: Salzburg
@@ -52,6 +52,7 @@ image:
   preview_only: false
   placement: 500
 
+url_flyer: Plakat_Ring_VO_Gekommen_um_zu_bleiben_KI_WS2026_27.pdf
 
 projects: []
 ---
